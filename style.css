@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 80vw;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.logo{
+    font-size: 22px;
+}
+.navbar{
+    height: 60px;
+}
+.navbar li{
+    list-style: none;
+    margin: 0 15px;
+}
+.top-left{
+    width: 50%;
+    height: 50vh;
+    margin-right: 90px;
+}
+.top-right{
+    height: 50vh;
+    width: 50%;
+}
+.summary-main{
+    font-size: 24px;
+}
+.section1{
+    padding: 45px 0px;
+}
+.section2{
+    padding-bottom: 60px;
+}
+.section2 h1, .main-heading{
+    font-size: 2rem;
+}
+.pricing-summary{
+    font-size: 22px;
+}
+.col ul li{
+    list-style: none;
+}
+.footer-single-header{
+    font-size: 18px;
+    font-weight: bold;
+    border-bottom: 1px solid black;
+}
+.footer-contents:hover{
+    cursor: pointer;
+}
